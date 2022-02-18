@@ -26,8 +26,8 @@ Print the predicted output.
 ## PROGRAM:
 ```
 To write a python program to implement multivariate linear regression.
-Developed by: Aashima Nazreen Sayeed S
-Register Number: 21500368
+Developed by: K.M.Swetha
+Register Number: 21500844
 
 import pandas as pd
 from sklearn import linear_model
